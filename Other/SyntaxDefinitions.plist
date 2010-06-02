@@ -76,6 +76,14 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>ASM Motorola 68000</string>
+		<key>file</key>
+		<string>asm-m68k</string>
+		<key>extensions</key>
+		<string>asm s</string>
+	</dict> 
+	<dict>
+		<key>name</key>
 		<string>ASP - JavaScript</string>
 		<key>file</key>
 		<string>asp-js</string>
