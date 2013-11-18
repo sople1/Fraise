@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C0768CC3-BC63-47CD-88F5-43111EE47DDF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FRAISE</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>67FD5B33-0766-4825-AED9-7F27DA853B13</key>
+		<string>git://git.assembla.com/fraise.git</string>
+		<key>D75DE1B3-27F1-41CD-A176-EE5FAD1A837D</key>
+		<string>git://git.assembla.com/fraise.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FRAISE.XCODEPROJ/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>67FD5B33-0766-4825-AED9-7F27DA853B13</key>
+		<string>../../../fraise</string>
+		<key>D75DE1B3-27F1-41CD-A176-EE5FAD1A837D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git://git.assembla.com/fraise.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D75DE1B3-27F1-41CD-A176-EE5FAD1A837D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67FD5B33-0766-4825-AED9-7F27DA853B13</string>
+			<key>IDESourceControlWCCName</key>
+			<string>fraise</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D75DE1B3-27F1-41CD-A176-EE5FAD1A837D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FRAISE</string>
+		</dict>
+	</array>
+</dict>
+</plist>
